@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Django Framework
-- 📫 How to reach me charlyopiyo@gmail.com 
+- 📫 How to reach me [@CharlesOpiyo2](https://twitter.com/CharlesOpiyo2),charlyopiyo@gmail.com 
 
 <!---
 OPIYO-254/OPIYO-254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
