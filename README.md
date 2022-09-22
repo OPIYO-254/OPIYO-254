@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OPIYO-254
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Django Framework
+- 👋 Hi, I’m Charles Opiyo
+- 👀 I’m interested in mobile app, desktop app and Web Development
+- 🌱 I’m currently learning Javascript, React Native and NodeJS
+- 💞️ I’m looking to collaborate on Django Framework, Python Kivy/Kivymd and Core Java, JSP and MySQL
 - 📫 How to reach me [@CharlesOpiyo2](https://twitter.com/CharlesOpiyo2),charlyopiyo@gmail.com 
 
 <!---
