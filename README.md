@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charles Opiyo
 - 👀 I’m interested in mobile app, desktop app and Web Development
-- 🌱 I’m currently learning Javascript, React Native and NodeJS
-- 💞️ I’m looking to collaborate on Django Framework, Python Kivy/Kivymd and Core Java, JSP, Spring Boot, Thymeleaf, Dart and Flutter.
+- 🌱 I’m currently learning React and NodeJS
+- 💞️ I’m looking to collaborate on Django Framework, Python Kivy/Kivymd, FastApi, Core Java, JSP,JSF, JavaFX,Java Swing, Spring Boot, Thymeleaf, Dart and Flutter.
 - 📫 How to reach me [@CharlesOpiyo2](https://twitter.com/CharlesOpiyo2),charlyopiyo@gmail.com 
 
 <!---
